@@ -24,7 +24,7 @@ int day2() {
     printf("%.1f\n", f + d);
     // Concatenate and print the String variables on a new line
     // The 's' variable above should be printed first.
-    cout << s; cout << m;
+    cout << s << m << endl;
 
     return 0;
 }
