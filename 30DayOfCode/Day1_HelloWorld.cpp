@@ -12,7 +12,7 @@ int day1() {
     string input_string;
 
     // Read a full line of input from stdin (cin) and save it to our variable, input_string.
-    getline(cin, input_string);
+    cout << "Enter a string: "; getline(cin, input_string);
 
     // Print a string literal saying "Hello, World." to stdout using cout.
     cout << "Hello, World." << endl;

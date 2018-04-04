@@ -15,9 +15,9 @@ int day2() {
     // Declare second integer, double, and String variables.
     int j; double f; string m;
     // Read and save an integer, double, and String to your variables.
-    cin >> j;
-    cin >> f; cin.ignore();
-    getline(cin, m);
+    cout << "Enter an integer: "; cin >> j;
+    cout << "Enter a double: "; cin >> f; cin.ignore();
+    cout << "Enter a string: "; getline(cin, m);
     // Print the sum of both integer variables on a new line.
     cout << j + i << endl;
     // Print the sum of the double variables on a new line.
