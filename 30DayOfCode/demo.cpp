@@ -7,17 +7,17 @@
 
 #include <iostream>
 
+#include "day0.h"
 #include "day1.h"
 #include "day2.h"
-#include "day3.h"
 using namespace std;
 
 int main() {
 
 
+	day0();
 	day1();
 	day2();
-	day3();
 	return 0;
 }
 

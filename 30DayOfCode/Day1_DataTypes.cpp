@@ -1,13 +1,13 @@
 /*
- * Day2_DataTypes.cpp
+ * Day1_DataTypes.cpp
  *
  *  Created on: Apr 4, 2018
  *      Author: archer
  */
 
-#include "day2.h"
+#include "day1.h"
 
-int day2() {
+int day1() {
     int i = 4;
     double d = 4.0;
     string s = "HackerRank ";

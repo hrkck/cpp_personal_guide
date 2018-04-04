@@ -1,13 +1,13 @@
 /*
- * Day3_Operators.cpp
+ * Day2_Operators.cpp
  *
  *  Created on: Apr 4, 2018
  *      Author: archer
  */
 
-#include "day3.h"
+#include "day2.h"
 
-int day3() {
+int day2() {
     double meal_cost;
     cout << "Enter a double: "; cin >> meal_cost;
     int tip_percent;

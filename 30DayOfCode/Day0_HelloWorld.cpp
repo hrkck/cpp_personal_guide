@@ -1,13 +1,13 @@
 /*
- * Day1_HelloWorld.cpp
+ * Day0_HelloWorld.cpp
  *
  *  Created on: Apr 4, 2018
  *      Author: archer
  */
 
-#include "day1.h"
+#include "day0.h"
 
-int day1() {
+int day0() {
     // Declare a variable named 'input_string' to hold our input.
     string input_string;
 
