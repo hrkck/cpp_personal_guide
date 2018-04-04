@@ -5,15 +5,9 @@
  *      Author: archer
  */
 
-#include <cmath>
-#include <cstdio>
-#include <vector>
-#include <iostream>
-#include <algorithm>
-using namespace std;
+#include "day1.h"
 
-
-int main() {
+int day1() {
     // Declare a variable named 'input_string' to hold our input.
     string input_string;
 
