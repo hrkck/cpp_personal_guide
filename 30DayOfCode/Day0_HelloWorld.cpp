@@ -3,6 +3,10 @@
  *
  *  Created on: Apr 4, 2018
  *      Author: archer
+ *
+ * link to the problem:
+ * https://www.hackerrank.com/challenges/30-hello-world/problem
+ *
  */
 
 #include "day0.h"
