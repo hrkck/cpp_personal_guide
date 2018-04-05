@@ -5,26 +5,27 @@
  *      Author: archer
  */
 
-#include <iostream>
 
 #include "../30DayOfCode/day0.h"
 #include "../30DayOfCode/day1.h"
 #include "../30DayOfCode/day2.h"
 #include "../30DayOfCode/day3.h"
 
+#include "../Strings/Strings.h"
 #include "../Strings/StringStream.h"
 
 using namespace std;
 
 int main() {
 
+	day0();
+	day1();
+	day2();
+	day3();
 
-//	day0();
-//	day1();
-//	day2();
-//	day3();
-
+	strings();
 	stringStreamProblem();
+
 	return 0;
 }
 
