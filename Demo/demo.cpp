@@ -11,6 +11,7 @@
 #include "../30DayOfCode/day2.h"
 #include "../30DayOfCode/day3.h"
 
+#include "../Introduction/Data_Types.h"
 #include "../Introduction/Arrays.h"
 #include "../Introduction/Vectors.h"
 #include "../Introduction/Pointers.h"
@@ -27,6 +28,7 @@ int main() {
 	day2();
 	day3();
 
+	dataTypes();
 	arrays();
 	vectors();
 	pointers();
