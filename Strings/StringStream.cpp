@@ -35,7 +35,7 @@ int stringStreamProblem() {
 	string str;
 	cin >> str;
 	vector<int> integers = parseInts(str);
-	for(int i = 0; i < integers.size(); i++) {
+	for(unsigned int i = 0; i < integers.size(); i++) {
 		cout << integers[i] << "\n";
 	}
 
