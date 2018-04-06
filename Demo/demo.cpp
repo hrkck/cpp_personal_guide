@@ -12,6 +12,7 @@
 #include "../30DayOfCode/day3.h"
 
 #include "../Introduction/Arrays.h"
+#include "../Introduction/Vectors.h"
 #include "../Introduction/Pointers.h"
 
 #include "../Strings/Strings.h"
@@ -27,12 +28,12 @@ int main() {
 	day3();
 
 	arrays();
+	vectors();
 	pointers();
 
 	strings();
 	stringStreamProblem();
 
-	return 0;
 }
 
 
