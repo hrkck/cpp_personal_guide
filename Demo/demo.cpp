@@ -11,6 +11,8 @@
 #include "../30DayOfCode/day2.h"
 #include "../30DayOfCode/day3.h"
 
+#include "../Introduction/Pointers.h"
+
 #include "../Strings/Strings.h"
 #include "../Strings/StringStream.h"
 
@@ -22,6 +24,8 @@ int main() {
 	day1();
 	day2();
 	day3();
+
+	pointers();
 
 	strings();
 	stringStreamProblem();
