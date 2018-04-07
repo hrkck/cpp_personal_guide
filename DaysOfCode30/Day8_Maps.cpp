@@ -21,8 +21,7 @@ int day8() {
 		cin >> s >> n;
 		phoneBook[s] = n;
 	}
-	for (int i = 0; i < q; ++i) {
-		cin >> s;
+	while(cin >> s){
 		if(phoneBook[s]){
 			cout << s << "=" << phoneBook[s] << endl;
 		}else{
