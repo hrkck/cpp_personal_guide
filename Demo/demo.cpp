@@ -16,6 +16,7 @@
 #include "../DaysOfCode30/day7.h"
 #include "../DaysOfCode30/day8.h"
 #include "../DaysOfCode30/day9.h"
+#include "../DaysOfCode30/day10.h"
 
 #include "../Introduction/Data_Types.h"
 #include "../Introduction/Arrays.h"
@@ -39,6 +40,7 @@ int main() {
 	day7();
 	day8();
 	day9();
+	day10();
 
 	dataTypes();
 	arrays();
