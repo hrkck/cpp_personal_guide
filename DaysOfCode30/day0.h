@@ -5,8 +5,8 @@
  *      Author: archer
  */
 
-#ifndef DAY0_H_
-#define DAY0_H_
+#ifndef DAYSOFCODE30_DAY0_H_
+#define DAYSOFCODE30_DAY0_H_
 
 #include <cmath>
 #include <cstdio>
@@ -17,4 +17,4 @@ using namespace std;
 
 int day0();
 
-#endif /* 30DAYOFCODE_DAY0_HELLOWORLD_H_ */
+#endif /* DAYSOFCODE30_DAY0_HELLOWORLD_H_ */

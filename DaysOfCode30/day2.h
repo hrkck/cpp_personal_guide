@@ -5,8 +5,8 @@
  *      Author: archer
  */
 
-#ifndef DAY2_H_
-#define DAY2_H_
+#ifndef DAYSOFCODE30_DAY2_H_
+#define DAYSOFCODE30_DAY2_H_
 
 #include <bits/stdc++.h>
 #include <iostream>
@@ -14,4 +14,4 @@ using namespace std;
 
 int day2();
 
-#endif /* 30DAYOFCODE_DAY2_H_ */
+#endif /* DAYSOFCODE30_DAY2_H_ */

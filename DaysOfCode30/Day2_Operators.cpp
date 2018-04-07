@@ -9,7 +9,7 @@
  *
  */
 
-#include "day2.h"
+#include "../DaysOfCode30/day2.h"
 
 int day2() {
     double meal_cost;

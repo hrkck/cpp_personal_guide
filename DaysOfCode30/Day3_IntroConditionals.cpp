@@ -9,7 +9,7 @@
  *
  */
 
-#include "day3.h"
+#include "../DaysOfCode30/day3.h"
 
 
 int day3(){

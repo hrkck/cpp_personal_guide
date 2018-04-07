@@ -6,10 +6,10 @@
  */
 
 
-#include "../30DayOfCode/day0.h"
-#include "../30DayOfCode/day1.h"
-#include "../30DayOfCode/day2.h"
-#include "../30DayOfCode/day3.h"
+#include "../DaysOfCode30/day0.h"
+#include "../DaysOfCode30/day1.h"
+#include "../DaysOfCode30/day2.h"
+#include "../DaysOfCode30/day3.h"
 
 #include "../Introduction/Data_Types.h"
 #include "../Introduction/Arrays.h"

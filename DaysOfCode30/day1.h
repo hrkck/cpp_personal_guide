@@ -5,8 +5,8 @@
  *      Author: archer
  */
 
-#ifndef DAY1_H_
-#define DAY1_H_
+#ifndef DAYSOFCODE30_DAY1_H_
+#define DAYSOFCODE30_DAY1_H_
 
 #include <iostream>
 #include <iomanip>
@@ -15,4 +15,4 @@ using namespace std;
 
 int day1();
 
-#endif /* 30DAYOFCODE_DAY1_DATATYPES_H_ */
+#endif /* DAYSOFCODE30_DAY1_DATATYPES_H_ */

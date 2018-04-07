@@ -5,8 +5,8 @@
  *      Author: archer
  */
 
-#ifndef DAY3_H_
-#define DAY3_H_
+#ifndef DAYSOFCODE30_DAY3_H_
+#define DAYSOFCODE30_DAY3_H_
 
 #include <map>
 #include <set>
@@ -33,4 +33,4 @@ using namespace std;
 
 int day3();
 
-#endif /* 30DAYOFCODE_DAY3_H_ */
+#endif /* DAYSOFCODE30_DAY3_H_ */
