@@ -17,6 +17,7 @@
 #include "../DaysOfCode30/day8.h"
 #include "../DaysOfCode30/day9.h"
 #include "../DaysOfCode30/day10.h"
+#include "../DaysOfCode30/day11.h"
 
 #include "../Introduction/Data_Types.h"
 #include "../Introduction/Arrays.h"
@@ -30,25 +31,26 @@ using namespace std;
 
 int main() {
 
-	day0();
-	day1();
-	day2();
-	day3();
-	day4();
-	day5();
-	day6();
-	day7();
-	day8();
-	day9();
-	day10();
-
-	dataTypes();
-	arrays();
-	vectors();
-	pointers();
-
-	strings();
-	stringStreamProblem();
+//	day0();
+//	day1();
+//	day2();
+//	day3();
+//	day4();
+//	day5();
+//	day6();
+//	day7();
+//	day8();
+//	day9();
+//	day10();
+	day11();
+//
+//	dataTypes();
+//	arrays();
+//	vectors();
+//	pointers();
+//
+//	strings();
+//	stringStreamProblem();
 
 }
 
