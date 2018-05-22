@@ -54,4 +54,3 @@ int day13() {
     novel.display();
     return 0;
 }
-
