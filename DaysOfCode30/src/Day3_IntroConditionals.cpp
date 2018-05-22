@@ -9,15 +9,12 @@
  *
  */
 
-#include "../DaysOfCode30/day3.h"
-
+#include "../include/day3.h"
 
 int day3(){
     int N;
     cin >> N;
-    if(N%2==1){  printf("Weird");  }
-    if(N%2==0 && N>20){  printf("Not Weird");  }
-    if(N>=2 && N<=5 && N%2==0){  printf("Not Weird");  }
-    if(N%2==0 && N>=6 && N<=20){  printf("Weird"); }
+    if((N%2==1) || (N%2==0 && N>=6 && N<=20))  printf("Weird");
+    if((N%2==0 && N>20) || (N>=2 && N<=5 && N%2==0)) printf("Not Weird");
     return 0;
 }

@@ -9,7 +9,7 @@
  *
  */
 
-#include "day10.h"
+#include "../include/day10.h"
 
 void printVector(vector<int> v){
 	for(int _ = 0; _ < v.size(); _++){

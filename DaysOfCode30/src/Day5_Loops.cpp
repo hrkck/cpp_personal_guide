@@ -9,7 +9,7 @@
  *
  */
 
-#include "day5.h"
+#include "../include/day5.h"
 
 
 int day5(){
@@ -21,4 +21,3 @@ int day5(){
 	}
     return 0;
 }
-

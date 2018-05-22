@@ -10,7 +10,7 @@
  */
 
 
-#include "Arrays.h"
+#include "../include/Arrays.h"
 
 int arrays() {
     int N, i = 0;

@@ -9,7 +9,7 @@
  *
  */
 
-#include "StringStream.h"
+#include "../include/StringStream.h"
 
 /*
  * A great solution thanks to the great HackerRank Community:

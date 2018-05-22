@@ -9,7 +9,7 @@
  *
  */
 
-#include "../DaysOfCode30/day0.h"
+#include "../include/day0.h"
 
 int day0() {
     string input_string;

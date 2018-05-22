@@ -9,7 +9,7 @@
  *
  */
 
-#include "day7.h"
+#include "../include/day7.h"
 
 int day7(){
     int n;
@@ -21,5 +21,3 @@ int day7(){
     while(cout << arr[--n] << ' ' && n);
     return 0;
 }
-
-

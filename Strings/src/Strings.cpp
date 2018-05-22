@@ -8,7 +8,7 @@
  * https://www.hackerrank.com/challenges/c-tutorial-strings/problem
  */
 
-#include "Strings.h"
+#include "../include/Strings.h"
 
 int strings() {
     string s1; string s2;

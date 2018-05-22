@@ -16,7 +16,7 @@
  *
  */
 
-#include "Vectors.h"
+#include "../include/Vectors.h"
 
 void printVectors(vector<vector<int>> v);
 

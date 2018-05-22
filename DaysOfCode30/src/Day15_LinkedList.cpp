@@ -9,7 +9,7 @@
  *
  */
 
-#include "day15.h"
+#include "../include/day15.h"
 
 
 class Node {

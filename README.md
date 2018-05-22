@@ -4,7 +4,7 @@ This is an Eclipse Project. It is supposed to be easily imported in Eclipse.
 
 Alternatively you can compile and run yourself.  
 **To compile and run:**
-```g++ Demo/demo.cpp DaysOfCode30/*.cpp Strings/*.cpp Introduction/*.cpp -o bin/demo && ./bin/demo```
+```g++ Demo/demo.cpp DaysOfCode30/src/*.cpp Strings/src/*.cpp Introduction/src/*.cpp -o bin/demo && ./bin/demo```
 
 Add any other folder as seen above.
 

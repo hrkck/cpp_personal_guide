@@ -10,7 +10,7 @@
  */
 
 
-#include "Pointers.h"
+#include "../include/Pointers.h"
 
 void update(int *a,int *b) {
     // Complete this function

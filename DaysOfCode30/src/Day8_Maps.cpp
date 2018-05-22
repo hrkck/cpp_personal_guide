@@ -8,7 +8,7 @@
  * https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem
  */
 
-#include "day8.h"
+#include "../include/day8.h"
 
 
 int day8() {

@@ -9,7 +9,7 @@
  *
  */
 
-#include "day4.h"
+#include "../include/day4.h"
 
 
 int day4(){

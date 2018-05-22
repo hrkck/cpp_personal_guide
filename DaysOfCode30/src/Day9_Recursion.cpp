@@ -9,7 +9,7 @@
  *
  */
 
-#include "day9.h"
+#include "../include/day9.h"
 
 int factorial(int n) {
     if(n <= 1){ return 1; }

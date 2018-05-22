@@ -9,7 +9,7 @@
  *
  */
 
-#include "day12.h"
+#include "../include/day12.h"
 
 
 class Person{
