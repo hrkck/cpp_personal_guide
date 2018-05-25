@@ -8,8 +8,9 @@
 #ifndef DAYSOFCODE30_DAY4_H_
 #define DAYSOFCODE30_DAY4_H_
 
-using namespace std;
 #include <iostream>
+
+using namespace std;
 
 int day4();
 
