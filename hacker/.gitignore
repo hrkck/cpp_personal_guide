@@ -1,0 +1,4 @@
+/Debug/
+bin/*
+*.o
+.DS_Store
